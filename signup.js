@@ -1,8 +1,5 @@
 let result = document.querySelector("#result");
 
-
-
-
 const signup = () => {
     let FName = document.querySelector("#FName").value;
     let LName = document.querySelector("#LName").value;
